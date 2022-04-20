@@ -1,0 +1,2 @@
+# React-FoodApp
+React based food app in which I have used firebase as a backend service to fetch the meals and then a user can order that particular item and the order details will also be saved in firebase db. This project is for my learning purpose which includes state handling using props and useReducer hook, context API is used to implement the cart functionality of the app. Website Demo: https://joyful-griffin-2e4e57.netlify.app/
